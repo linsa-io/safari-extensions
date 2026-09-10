@@ -28,6 +28,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Accelerate for Safari](https://itunes.apple.com/us/app/accelerate-for-safari/id1459809092?mt=12) - Control video speed in Safari.
 - [Polyglot](https://github.com/uetchy/Polyglot) - Safari extension that translates selected text into your native language.
 - [Safarikai](https://github.com/ashchan/safarikai) - Safari extension for translating Japanese words.
+- [BelliedMonkey Translator](https://github.com/belliedmonkey/belliedmonkey-translator) - Bilingual page translation (original kept, translation beneath it) and dual video subtitles for Safari on iPhone, iPad and Mac; sentences you read become review cards. Bring your own LLM key, no account required. GPL-3.0.
 - [Zoom In](https://github.com/nothingmagical/ZoomIn) - Automatically open Zoom links.
 - [Subscribe with Reeder](https://www.reederapp.com) - From the Reeder RSS app, find RSS feeds for a site and subscribe to them within the app
 - [PiPer](https://github.com/amarcu5/PiPer) - Adds a picture-in-picture button to many [supported sites](https://github.com/amarcu5/PiPer#supported-sites)
